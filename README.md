@@ -5,3 +5,4 @@ This personal project turns you into a Hogwarts student and generates a basic pr
 ## Features
 
 1. A monologue of the Sorting Hat while choosing the house you belong to.
+2. The subject you might be good at, followed by a message related to the class.
